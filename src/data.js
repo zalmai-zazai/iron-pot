@@ -1,0 +1,20 @@
+export const MENU_ITEMS = [
+  { id:"bibimbop", name:"Bibimbop", price:19, category:"Plates", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/photosV2/91801935-6276-4724-b2df-6794af672218-retina-large.JPG", description:"A vibrant bowl of rice, vegetables, egg and savory Korean flavors.", featured:true },
+  { id:"poke", name:"Poke", price:19, category:"Plates", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/yelp/52d96bbd-9df6-4b72-b0d2-62db7d3c1e0b.jpg", description:"Fresh, colorful poke with bold toppings and a satisfying finish.", liked:"#1 Most liked" },
+  { id:"kalbi", name:"Kalbi", price:19, category:"Plates", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/ugc/44f199d6-f253-4941-92f5-1bedd551efb4.jpg", description:"Korean-style marinated short ribs, grilled for a deep caramelized flavor." },
+  { id:"yakisoba", name:"Yakisoba", price:18, category:"Plates", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/photosV2/77d07236-3184-4c08-8ea4-c72f1abc35c0-retina-large.JPG", description:"Wok-tossed noodles with vegetables and a savory house-style sauce." },
+  { id:"chicken-katsu", name:"Chicken Katsu", price:18, category:"Plates", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/yelp/344fbb17-038b-45e7-b3a7-e8c782699ab8.png", description:"Crispy breaded chicken served with rice and salad." },
+  { id:"wings", name:"Chicken Wings", price:10, category:"Most Ordered", image:null, description:"Crispy wings made for sharing." },
+  { id:"cod", name:"Battered Cod", price:10, category:"Sides", image:null, description:"3 pieces." },
+  { id:"coconut-shrimp", name:"Coconut Shrimp", price:8, category:"Sides", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/yelp/633d89bd-ffc0-4456-b910-72150d36e973-5cef9d07-c48d-4185-a72e-a7851ebbed93.jpg", description:"5 pieces." },
+  { id:"shrimp-tempura", name:"Shrimp Tempura", price:8, category:"Sides", image:null, description:"5 pieces." },
+  { id:"salad", name:"Spring Mix Salad", price:9, category:"Sides", image:null, description:"Tender leaves with cucumbers, tomatoes, dried cranberries and a light balsamic vinaigrette." },
+  { id:"tofu", name:"Fried Tofu", price:9, category:"Sides", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/photosV2/9b66c83c-c588-4600-83d3-0d095d2e7051-retina-large.JPG", description:"Vegetarian.", rating:"100% (6)" },
+  { id:"miso", name:"Miso Soup", price:4, category:"Sides", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/photosV2/d051bbfb-e459-4b2f-8ade-b70c48b81034-retina-large.JPG", description:"Delicate miso broth with tofu, seaweed and green onions.", rating:"91% (12)" },
+  { id:"gyoza", name:"Gyoza", price:4, category:"Sides", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/yelp/6a21be08-8eed-41c9-be9b-810ee72dae70.jpg", description:"4 pieces.", liked:"#2 Most liked", rating:"97% (41)" },
+  { id:"crab-rangoon", name:"Crab Rangoon", price:4, category:"Sides", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/yelp/702e4b76-c825-484a-b8d0-684baf769d27.jpg", description:"2 pieces.", rating:"89% (19)" },
+  { id:"spring-roll", name:"Spring Roll", price:4, category:"Sides", image:null, description:"2 pieces.", rating:"100% (6)" },
+  { id:"eggroll", name:"Eggroll", price:3, category:"Sides", image:null, description:"1 piece.", rating:"100% (6)" },
+  { id:"coke", name:"Coke", price:2, category:"Drinks", image:"https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=70/media/photosV2/0c26f76a-c19d-44e9-917f-ae4f31e7b86e-retina-large.jpeg", description:"Bold, refreshing, robust cola." },
+  { id:"sanpellegrino", name:"Sanpellegrino", price:2, category:"Drinks", image:null, description:"Clementine & peach, orange, blood orange or lemon." }
+];
